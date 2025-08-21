@@ -50,7 +50,4 @@ Explore other clustering algorithms (DBSCAN, Hierarchical)
 
 Build interactive dashboards for analysis
 
-📝 License
 
-MIT License – see LICENSE
-.
